@@ -40,7 +40,46 @@ Scale and Content
 - Weight in Grams
 - Out of Stock Status
 
+### Why This Dataset?
+Zepto is a high-growth 10-minute grocery delivery platform. This dataset is:
+- Realistic: Real product catalog from operating platform
+- Substantial: 3,700+ products provides meaningful scale
+- Business Relevant: Supply chain efficiency is critical
+- Well-maintained: High usability rating on Kaggle
 
+### Project Learning Objectives
+Educational Purpose
+
+This project teaches:
+
+SQL Fundamentals:
+- Database schema design and optimization
+- Creating summary tables with calculated metrics
+- Complex query construction
+- Conditional logic with CASE statements
+- Aggregate functions with filtering
+
+Advanced SQL Techniques:
+- Feature engineering (calculated business metrics)
+- Conditional aggregation using FILTER clause
+- GROUP BY analysis across categories
+- Subqueries for percentage calculations
+- UNION ALL for combining multiple datasets
+- ORDER BY for result prioritization
+
+Business Analytics:
+- Translating business questions into SQL queries
+- Financial impact quantification
+- KPI calculation and reporting
+- Prioritization by business importance
+- Converting data analysis into actionable recommendations
+
+Supply Chain Concepts:
+- Working capital and inventory management
+- Stockout costs (revenue loss, customer impact)
+- Overstock risk (capital efficiency)
+- Category-specific optimization strategies
+- Supply chain performance metrics
 
 
 
