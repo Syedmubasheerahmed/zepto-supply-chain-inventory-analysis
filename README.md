@@ -47,6 +47,42 @@ Zepto is a high-growth 10-minute grocery delivery platform. This dataset is:
 - Business Relevant: Supply chain efficiency is critical
 - Well-maintained: High usability rating on Kaggle
 
+### Key findings:
+
+Overall inventory health
+- A noticeable share of products are out of stock, showing real stockout risk.
+- Average stock per product is very low, meaning the system runs with almost no safety buffer.
+
+Category performance
+- Cooking Essentials and Munchies show the worst stockout problems among all categories.
+- Some other categories are relatively stable, with lower stockout and more balanced stock.
+
+Working capital and overstock
+- A large amount of money is tied up in inventory, heavily concentrated in a small set of products and categories.
+- Certain products and categories have clear overstock risk, while others are starved of inventory.
+
+Price segment behaviour
+- The catalog is dominated by higher‑priced “luxury” items, with almost no budget or mid‑range products.
+- Even in this premium segment, stockouts are common, which is risky because premium customers expect high availability.
+
+Weight‑based patterns
+- Heavier and bulk products (especially above 500g and 1kg) have higher stockout rates than lighter products.
+- This suggests structural supply chain issues for bulk items, like lead times, storage, or logistics constraints.
+
+Discount strategy
+- High discounts do not consistently reduce inventory levels compared to low discounts.
+- This means price cuts alone are not enough to move stock; demand is driven more by need and availability than by discount.
+
+Risk and opportunity
+- There is clear revenue lost because popular products are frequently out of stock.
+- At the same time, there is big opportunity to free working capital by acting on overstocked, slow‑moving items.
+
+Recommended actions
+- Increase safety stock and improve forecasting for critical categories like Cooking Essentials and Munchies.
+- Treat heavy and bulk items with a separate inventory strategy due to their higher risk.
+- Shift focus from random discounting to targeted actions on truly overstocked SKUs.
+- Build an ongoing monitoring dashboard so leadership can track stockouts, overstock, and category health regularly.
+
 ### Project Learning Objectives
 Educational Purpose
 
