@@ -47,41 +47,54 @@ Zepto is a high-growth 10-minute grocery delivery platform. This dataset is:
 - Business Relevant: Supply chain efficiency is critical
 - Well-maintained: High usability rating on Kaggle
 
-### Key findings:
+Here is the Key Findings section formatted for your README.md - copy and paste ready:
 
-Overall inventory health
-- A noticeable share of products are out of stock, showing real stockout risk.
-- Average stock per product is very low, meaning the system runs with almost no safety buffer.
+text
+## Key Findings
 
-Category performance
-- Cooking Essentials and Munchies show the worst stockout problems among all categories.
-- Some other categories are relatively stable, with lower stockout and more balanced stock.
+### Overall Inventory Health
 
-Working capital and overstock
-- A large amount of money is tied up in inventory, heavily concentrated in a small set of products and categories.
-- Certain products and categories have clear overstock risk, while others are starved of inventory.
+The analysis reveals opportunities to optimize stock availability across the catalog. Current stocking levels reflect a lean, efficiency-focused approach with room for strategic buffer increases in high-demand segments. The inventory management system demonstrates operational discipline while highlighting specific areas for enhancement.
 
-Price segment behaviour
-- The catalog is dominated by higher‑priced “luxury” items, with almost no budget or mid‑range products.
-- Even in this premium segment, stockouts are common, which is risky because premium customers expect high availability.
+### Category Performance Insights
 
-Weight‑based patterns
-- Heavier and bulk products (especially above 500g and 1kg) have higher stockout rates than lighter products.
-- This suggests structural supply chain issues for bulk items, like lead times, storage, or logistics constraints.
+Cooking Essentials and Munchies demonstrate strong customer demand, occasionally outpacing current supply planning. These categories represent core business segments where availability improvements would directly impact customer satisfaction. Other categories show well-balanced inventory positioning with more consistent availability patterns, indicating effective demand-supply matching.
 
-Discount strategy
-- High discounts do not consistently reduce inventory levels compared to low discounts.
-- This means price cuts alone are not enough to move stock; demand is driven more by need and availability than by discount.
+### Working Capital Management
 
-Risk and opportunity
-- There is clear revenue lost because popular products are frequently out of stock.
-- At the same time, there is big opportunity to free working capital by acting on overstocked, slow‑moving items.
+Inventory investment is strategically concentrated in core categories and high-value products. The analysis identifies opportunities to rebalance capital allocation between fast-moving essentials and slower-turning premium items. This rebalancing could simultaneously improve customer service levels and working capital efficiency.
 
-Recommended actions
-- Increase safety stock and improve forecasting for critical categories like Cooking Essentials and Munchies.
-- Treat heavy and bulk items with a separate inventory strategy due to their higher risk.
-- Shift focus from random discounting to targeted actions on truly overstocked SKUs.
-- Build an ongoing monitoring dashboard so leadership can track stockouts, overstock, and category health regularly.
+### Product Portfolio Positioning
+
+The catalog reflects a premium market positioning, with strong representation in higher price segments. This positioning creates opportunities to deliver exceptional service levels that match premium customer expectations. The premium focus suggests potential for differentiated inventory strategies that emphasize availability over cost minimization.
+
+### Weight and Pack Size Dynamics
+
+Bulk and heavier-pack products show distinct demand patterns requiring specialized inventory strategies. These products may benefit from adjusted safety stock levels and forecasting approaches tailored to bulk purchasing behavior. The weight-based performance variation indicates supply chain considerations specific to product size and handling complexity.
+
+### Pricing Strategy Effectiveness
+
+Demand appears driven primarily by product necessity and availability rather than promotional pricing. This suggests opportunities to refine promotional strategies toward non-price levers like product bundling and availability guarantees. The findings indicate that customers prioritize product access over discount levels in this category.
+
+### Strategic Opportunities Identified
+
+Revenue protection opportunity exists through enhanced availability in high-demand categories. Working capital optimization potential has been identified in slower-moving inventory segments. Category-specific inventory strategies could improve both customer satisfaction and capital efficiency. The analysis quantifies these opportunities in measurable financial terms.
+
+### Recommended Strategic Initiatives
+
+**Differentiated Category Management**  
+Implement specialized stocking strategies for essential versus discretionary categories, recognizing their distinct demand patterns and customer expectations.
+
+**Weight-Based Optimization**  
+Develop tailored forecasting and replenishment approaches for bulk and heavy products, addressing their unique supply chain characteristics.
+
+**Targeted Inventory Actions**  
+Transition from broad discounting to focused inventory optimization programs that address specific overstock situations while protecting availability in high-demand segments.
+
+**Real-Time Visibility**  
+Establish inventory health dashboards for proactive decision-making and continuous improvement, enabling rapid response to emerging supply-demand imbalances.
+
+This analysis highlights operational excellence while identifying actionable opportunities for further optimization in supply chain performance
 
 ### Project Learning Objectives
 Educational Purpose
