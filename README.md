@@ -47,9 +47,6 @@ Zepto is a high-growth 10-minute grocery delivery platform. This dataset is:
 - Business Relevant: Supply chain efficiency is critical
 - Well-maintained: High usability rating on Kaggle
 
-Here is the Key Findings section formatted for your README.md - copy and paste ready:
-
-text
 ## Key Findings
 
 ### Overall Inventory Health
